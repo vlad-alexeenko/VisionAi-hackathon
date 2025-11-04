@@ -14,7 +14,11 @@ Developed for **AITEX Summit Fall 2025**, VisionAI Pro represents a breakthrough
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/visionai-pro-demo.mp4
+
+
+https://github.com/user-attachments/assets/df61e459-2166-4a6c-81fa-1ba8f3255164
+
+
 
 Watch our comprehensive demonstration showcasing VisionAI Pro's advanced AI-powered website analysis capabilities, including real-time segmentation, performance optimization, and intelligent recommendations.
 
@@ -146,3 +150,4 @@ npm run build
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
